@@ -1,0 +1,1 @@
+"Array . prototype . splice ( 0 , { [ Symbol . toPrimitive ] : x => 0 } ) ;"

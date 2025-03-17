@@ -1,0 +1,1 @@
+"async function x ( ) { ; for await ( x of { [ Symbol . asyncIterator ] : class { } } ) ; } x ( ) ;"

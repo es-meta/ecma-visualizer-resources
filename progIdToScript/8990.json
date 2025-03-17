@@ -1,0 +1,1 @@
+"[ , ] = { [ Symbol . iterator ] : async function * ( ) { ; for await ( var { } of x ) ; } } ;"

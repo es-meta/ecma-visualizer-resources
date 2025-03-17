@@ -1,0 +1,1 @@
+"Object . defineProperties ( [ ] , { x : { get : 0 } } ?? 0 ) ;"

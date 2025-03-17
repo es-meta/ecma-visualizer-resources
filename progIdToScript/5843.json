@@ -1,0 +1,1 @@
+"class x { } switch ( x ) { case '' : default : case x : }"

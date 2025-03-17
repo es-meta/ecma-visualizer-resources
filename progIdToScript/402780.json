@@ -1,0 +1,1 @@
+"Object . defineProperties ( x => x , { length : x => 0 } ?? 0 ) ;"

@@ -1,0 +1,1 @@
+"async function x ( ) { ; for await ( this . x of [ 0 ] ) ; } x ( ) ;"

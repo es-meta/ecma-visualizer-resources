@@ -1,0 +1,1 @@
+"String . prototype . concat . call ( { [ Symbol . toPrimitive ] : x => null } ) ;"

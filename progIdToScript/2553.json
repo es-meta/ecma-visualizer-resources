@@ -1,0 +1,1 @@
+"x = { [ Symbol . toPrimitive ] : x => new 0 } << 0 ;"

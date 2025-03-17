@@ -1,0 +1,1 @@
+"class x { static #x = #x in { [ Symbol . toPrimitive ] : 0 } >> 1 ; }"

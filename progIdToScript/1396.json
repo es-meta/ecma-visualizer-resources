@@ -1,0 +1,1 @@
+"0 . hasOwnProperty ( { [ Symbol . toPrimitive ] : x => { } } ) ;"

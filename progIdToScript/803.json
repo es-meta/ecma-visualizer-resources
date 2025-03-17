@@ -1,0 +1,1 @@
+"String . prototype . padStart ( { [ Symbol . toPrimitive ] : x => [ ] } ) ;"

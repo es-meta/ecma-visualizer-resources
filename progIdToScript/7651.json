@@ -1,0 +1,1 @@
+"switch ( 0 ) { case 1n . x : default : case 0 : }"

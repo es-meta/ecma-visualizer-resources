@@ -1,0 +1,1 @@
+"async function * x ( ) { yield 0 ; } [ , ] = { [ Symbol . iterator ] : async function * ( ) { yield * x ( ) ; } } ;"

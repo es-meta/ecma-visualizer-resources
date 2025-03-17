@@ -1,0 +1,1 @@
+"{ get : ( ) => { throw 0 ; } ; } [ { [ Symbol . toPrimitive ] : async function ( x ) { } } ] >>> '' ;"

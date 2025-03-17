@@ -1,0 +1,1 @@
+"isFinite ( { [ Symbol . toPrimitive ] : x => 0 } ) ;"

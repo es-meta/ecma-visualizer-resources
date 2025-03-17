@@ -1,0 +1,1 @@
+"for ( x in { get 0 ( ) { return ; } } [ 0 ] ??= 0 ) ;"

@@ -1,0 +1,1 @@
+"Reflect . construct ( class { } , x => x ) ;"

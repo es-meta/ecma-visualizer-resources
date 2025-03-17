@@ -1,0 +1,1 @@
+"0 . __defineSetter__ ( { [ Symbol . toPrimitive ] : x => { } } , x => 0 ) ;"

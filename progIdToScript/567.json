@@ -1,0 +1,1 @@
+"async function x ( ) { ; for await ( let [ ] of x ) ; } x ( ) ;"

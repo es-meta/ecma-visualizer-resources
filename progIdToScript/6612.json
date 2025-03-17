@@ -1,0 +1,1 @@
+"0 instanceof { [ Symbol . hasInstance ] : x => new 0 } ;"

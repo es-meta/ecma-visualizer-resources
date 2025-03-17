@@ -1,0 +1,1 @@
+"( async x => { for await ( var x of { [ Symbol . iterator ] : x => [ ] } ) ; } ) ( ) ;"

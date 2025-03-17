@@ -1,0 +1,1 @@
+"[ ] . concat ( { [ Symbol . isConcatSpreadable ] : 0n } ) ;"

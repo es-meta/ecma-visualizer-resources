@@ -1,0 +1,1 @@
+"class x extends null { static 0 = new class x extends super . x { } ; }"

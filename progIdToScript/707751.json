@@ -1,0 +1,1 @@
+"0 . __defineGetter__ ( { [ Symbol . toPrimitive ] : [ ] } , x => 0 ) ;"

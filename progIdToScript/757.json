@@ -1,0 +1,1 @@
+"let x = { [ Symbol . toPrimitive ] : class { } } <= 0 ;"

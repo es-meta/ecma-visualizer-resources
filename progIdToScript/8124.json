@@ -1,0 +1,1 @@
+"switch ( { set 0 ( x ) { return ; } } [ 0 ] -- ) { default : ; }"

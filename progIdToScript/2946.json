@@ -1,0 +1,1 @@
+"new String . prototype [ Symbol . iterator ] ;"

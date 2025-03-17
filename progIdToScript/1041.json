@@ -1,0 +1,1 @@
+"new Function ( { [ Symbol . toPrimitive ] : x => await } , 0 ) ;"

@@ -1,0 +1,1 @@
+"async function x ( ) { ; for await ( let [ ] of { [ Symbol . iterator ] : async function * ( ) { } } ) ; } x ( ) ;"

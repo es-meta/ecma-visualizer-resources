@@ -1,0 +1,1 @@
+"var x = 0 instanceof { get 0 ( ) { } , } [ 0 ] ;"
