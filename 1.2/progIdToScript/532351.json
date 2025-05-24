@@ -1,0 +1,1 @@
+"Object . seal ( { [ Symbol . matchAll ] : 0 } ) ;"

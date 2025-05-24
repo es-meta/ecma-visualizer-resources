@@ -1,0 +1,1 @@
+"switch ( 0 ) { case x %= x : default : case x : var x ; }"

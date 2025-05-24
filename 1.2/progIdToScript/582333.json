@@ -1,0 +1,1 @@
+"class x { static { switch ( 1n ?. x ) { } } }"

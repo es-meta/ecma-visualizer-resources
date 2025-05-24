@@ -1,0 +1,1 @@
+"Object . getOwnPropertySymbols ( { [ Symbol . match ] : 0 } ) ;"

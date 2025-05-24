@@ -1,0 +1,1 @@
+"switch ( '' ) { case '' : default : let x ; case x : let await = x ; }"

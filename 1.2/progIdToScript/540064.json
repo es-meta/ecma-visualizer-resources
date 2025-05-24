@@ -1,0 +1,1 @@
+"class x { static { for ( var x ; true ?. x ; x ) ; } }"
