@@ -1,0 +1,1 @@
+"new WeakSet ( { [ Symbol . iterator ] : async function * ( ) { } } ) ;"

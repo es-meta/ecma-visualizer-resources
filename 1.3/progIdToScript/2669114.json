@@ -1,0 +1,1 @@
+"'' . replace ( { [ Symbol . toPrimitive ] : x => 0 } ) ;"

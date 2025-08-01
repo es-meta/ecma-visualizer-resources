@@ -1,0 +1,1 @@
+"`` . lastIndexOf ( `` , { [ Symbol . toPrimitive ] : x => true } ) ;"

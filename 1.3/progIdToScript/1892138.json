@@ -1,0 +1,1 @@
+"class x { static { for await ( { } of { [ Symbol . asyncIterator ] : x => [ ] } ) ; } }"

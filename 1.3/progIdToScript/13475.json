@@ -1,0 +1,1 @@
+"var x = true ; Object . setPrototypeOf ( x , Iterator . prototype ) ; x >>>= x ;"

@@ -1,0 +1,1 @@
+"Math . abs ( { [ Symbol . toPrimitive ] : x => { } } ) ;"

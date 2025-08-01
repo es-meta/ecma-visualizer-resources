@@ -1,0 +1,1 @@
+"[ x => x ] . findIndex ( x => 0 ) ;"

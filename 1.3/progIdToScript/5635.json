@@ -1,0 +1,1 @@
+"var x = { } ; Object . setPrototypeOf ( x , null . prototype ) ; x [ Symbol . toStringTag ] = 0 ;"

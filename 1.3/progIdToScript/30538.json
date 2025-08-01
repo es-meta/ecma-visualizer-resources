@@ -1,0 +1,1 @@
+"new { [ true . match ] : ( ) => { throw 0 ; } } ;"

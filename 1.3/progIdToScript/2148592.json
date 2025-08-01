@@ -1,0 +1,1 @@
+"let x ; switch ( 1 ) { case x ++ : default : case x : }"

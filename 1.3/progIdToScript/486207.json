@@ -1,0 +1,1 @@
+"class x { } switch ( `${ x += x }${ x }` ) { default : case x : }"

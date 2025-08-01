@@ -1,0 +1,1 @@
+"class x { static { if ( 42 ) if ( x ) ; else ; } }"
