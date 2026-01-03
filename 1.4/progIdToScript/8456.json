@@ -1,0 +1,1 @@
+"`` . slice ( { [ Symbol . toPrimitive ] : class { } } ) ;"

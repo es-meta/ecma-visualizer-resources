@@ -1,0 +1,1 @@
+"Math . atan ( { [ Symbol . toPrimitive ] : x => null } ) ;"

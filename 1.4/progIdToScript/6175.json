@@ -1,0 +1,1 @@
+"'' . padStart ( { [ Symbol . toPrimitive ] : x => 0n } ) ;"

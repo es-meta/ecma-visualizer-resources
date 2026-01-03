@@ -1,0 +1,1 @@
+"function x ( ) { throw 0 ; } this ?. x ( ) ;"
